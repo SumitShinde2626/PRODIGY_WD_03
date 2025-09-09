@@ -1,0 +1,1 @@
+An interactive Tic-Tac-Toe Web Application built with HTML, CSS, and JavaScript. The game handles user clicks, tracks the board state, and checks for winning conditions in real-time. Players can enjoy matches against each other or challenge an AI opponent, making it a fun and engaging project to showcase core web development skills.
